@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML file allows us to easily customize the visual aesthetics of the user interface. Note that this properties
+file is only for the standard high-level controls for an application, so it does not include properties meant for any
+functionality within the main workspace. -->
+<properties>
+    <property_list>
+        <property name="INTERNAL_SERIES_NAME" value="__\\tINTERNAL_SERIES_NAME(INTERIOR-USAGE-ONLY)"/>
+        <property name="INTERNAL_SERIES_LINE_CSS_NAME" value="internal-series-line"/>
+    </property_list>
+    <property_options_list/>
+</properties>

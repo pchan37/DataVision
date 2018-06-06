@@ -1,0 +1,82 @@
+package datavision.utils.settings;
+
+public enum DataVisionSettings {
+
+    /* resource files and folders */
+    DATA_RESOURCE_PATH,
+    MAIN_CSS_RESOURCE_PATH,
+
+    /* user interface icon file names */
+    SCREENSHOT_ICON,
+
+    /* tooltips for user interface buttons */
+    SCREENSHOT_TOOLTIP,
+
+    /* error messages */
+    RESOURCE_SUBDIR_NOT_FOUND,
+
+    /* application-specific message titles */
+    SAVE_UNSAVED_WORK_TITLE,
+
+    /* application-specific messages */
+    SAVE_UNSAVED_WORK,
+
+    /* application-specific parameters */
+    DATA_FILE_EXT,
+    DATA_FILE_EXT_DESC,
+    TEXT_AREA,
+    LEFT_PANE_TITLE,
+    LEFT_PANE_TITLEFONT,
+    LEFT_PANE_TITLESIZE,
+    CHART_TITLE,
+
+    IMAGE_FILE_EXT,
+    IMAGE_FILE_EXT_DESC,
+
+    FILE_EXT_AND_DESC_FORMAT,
+    FILE_EXT_FORMAT,
+
+    CHART_LINE_SYMBOL,
+    CHART_SERIES_LINE,
+    CHART_SERIES_COLOR,
+    CHART_FONT_STYLE,
+
+    CHART_LEGEND,
+
+    INVALID_DATA_TITLE,
+    INVALID_DATA_FORMAT_MSG,
+    DUPLICATE_NAMES_FORMAT_MSG,
+
+    EDIT_DONE_TOGGLE_BUTTON,
+    EDIT_BUTTON_TEXT,
+    DONE_BUTTON_TEXT,
+
+    META_DATA_NO_FILE_FORMAT_STRING,
+    META_DATA_WITH_FILE_FORMAT_STRING,
+
+    BACK_TEXT,
+    NEXT_TEXT,
+    RUN_TEXT,
+
+    ALGORITHM_RUN_BUTTON,
+
+    ALGORITHM_RUNNING_TITLE,
+    ALGORITHM_RUNNING_MSG,
+
+    CONFIG_BUTTON_ICON,
+    CONFIG_BUTTON_TOOLTIP,
+
+    CONFIG_BUTTON_STYLE,
+
+    ALGORITHMS_ALGORITHMCONFIG_ALGORITHM_CONFIGURATION_DIALOG_XML,
+    ALGORITHMS_ALGORITHMCONFIG_CLUSTERER_CONFIGURATION_DIALOG_XML,
+
+    API_ALGORITHM_API_XML,
+    API_PLOT_API_XML,
+
+    CORE_APP_ACTION_XML,
+    CORE_APP_UI_XML,
+
+    LIB_SELECTION_ALGORITHM_SELECTION_MENU_XML
+
+}

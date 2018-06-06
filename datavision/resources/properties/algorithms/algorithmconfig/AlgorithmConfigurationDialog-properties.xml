@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML file allows us to easily customize the visual aesthetics of the user interface. Note that this properties
+file is only for the standard high-level controls for an application, so it does not include properties meant for any
+functionality within the main workspace. -->
+<properties>
+    <property_list>
+        <property name="MAX_ITERATION" value="Max. Iterations:"/>
+        <property name="UPDATE_INTERVAL" value="Update Interval:"/>
+        <property name="CONTINUOUS_RUN" value="Continuous Run?"/>
+        <property name="ALGORITHM_CONFIGURATION_DIALOG_OK" value="Ok"/>
+        <property name="INVALID_CONFIGURATION_TITLE" value="Invalid Configuration"/>
+        <property name="INVALID_CONFIGURATION_MESSAGE" value="Configuration is not valid, setting invalid values to default values!"/>
+        <property name="MUST_BE_INTEGER_FORMAT_STRING" value="Input cannot be integer, setting it to %d"/>
+        <property name="MUST_BE_NON_NEGATIVE_FORMAT_STRING" value="Input cannot be negative, setting it to %d"/>
+        <property name="MUST_BE_NON_ZERO_FORMAT_STRING" value="Input cannot be zero, setting it to %d"/>
+        <property name="MUST_BE_WITHIN_RANGE_FORMAT_STRING" value="Input must be between %d and %d inclusive, setting it to %d"/>
+    </property_list>
+    <property_options_list/>
+</properties>

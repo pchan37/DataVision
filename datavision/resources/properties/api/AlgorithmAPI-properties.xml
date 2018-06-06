@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML file allows us to easily customize the visual aesthetics of the user interface. Note that this properties
+file is only for the standard high-level controls for an application, so it does not include properties meant for any
+functionality within the main workspace. -->
+<properties>
+    <property_list>
+        <property name="CLASS_EXTENSION" value=".class"/>
+        <property name="ESCAPED_CLASS_EXTENSION" value="\\.class"/>
+        <property name="ALGORITHM_IS_STILL_RUNNING_QUIT_APPLICATION_MESSAGE" value="The algorithm is still running, do you wish to quit?"/>
+
+        <property name="ALGORITHM_CLASS_FORMAT_STRING" value="datavision.algorithms.%s.%s"/>
+        <property name="ALGORITHM_ADAPTER_CLASS_FORMAT_STRING" value="datavision.algorithms.algorithmadapters.%s"/>
+        <property name="ALGORITHM_CONFIG_CLASS_FORMAT_STRING" value="datavision.algorithms.algorithmconfig.%s"/>
+
+        <property name="ALGORITHM_ADAPTER_SUFFIX" value="Adapter"/>
+        <property name="ALGORITHM_CONFIG_SUFFIX" value="ConfigurationDialog"/>
+
+        <property name="ALGORITHM_ADAPTER_PATH" value="/datavision/algorithms/algorithmadapters"/>
+        <property name="ALGORITHM_PATH" value="/datavision/algorithms"/>
+        <property name="ALGORITHM_CONFIG_PATH" value="/datavision/algorithms/algorithmconfig"/>
+
+        <property name="ALGORITHM_ADAPTER_DIRECTORY" value="algorithmadapters"/>
+        <property name="ALGORITHM_DIRECTORY" value="algorithms"/>
+        <property name="ALGORITHM_CONFIGURATION_DIALOG_DIRECTORY" value="algorithmconfig"/>
+    </property_list>
+    <property_options_list/>
+</properties>
